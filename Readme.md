@@ -26,6 +26,13 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`._
 $ git checkout -b <branch>
 ~~~~
 
+#### 3. Запушить изменения в ветку
+~~~~
+$ git add <file>
+$ git commit -m <"comment">
+$ git push origin <branch>
+~~~~
+
 Клонировать репозиторий можно так:
 
 ```
